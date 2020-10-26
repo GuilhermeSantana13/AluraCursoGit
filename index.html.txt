@@ -4,4 +4,8 @@ Terceiro commit
 
 teste 
 
+<<<<<<< Updated upstream
 <li> curso de Kurbenetes </li>
+=======
+<li> Ansible: Infraestrutura</li>
+>>>>>>> Stashed changes
